@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerBIToken", "PowerBIToken\PowerBIToken.csproj", "{32AB5A73-E84C-4434-A544-6BAF0296DE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AB5A73-E84C-4434-A544-6BAF0296DE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AB5A73-E84C-4434-A544-6BAF0296DE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AB5A73-E84C-4434-A544-6BAF0296DE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AB5A73-E84C-4434-A544-6BAF0296DE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {254692E7-F03F-4572-B5E3-3FAD4DD01A46}
+	EndGlobalSection
+EndGlobal
